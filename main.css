@@ -1,0 +1,37 @@
+h1{
+    border: solid;
+    padding: 5px;
+    background-color: aquamarine;
+    width: 50%;
+}
+
+#font{
+font-style: italic;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+#dominance{
+    background-color: red;
+}
+
+.intro{
+    text-align: center;
+}
+
+.intro h2{
+    text-decoration: underline;
+}
+
+.cascade{
+    background-color: lightblue;
+    text-align: center;
+    padding: 5px;
+}
+
+#border{
+    border: dotted;
+    border-color: red;
+}
